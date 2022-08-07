@@ -1,0 +1,199 @@
+Fitlife - Work Hard To Get Better Life
+
+
+
+#---------- HEADER ----------#
+
+<ion-icon name="barbell-sharp" aria-hidden="true"></ion-icon>
+Fitlife
+
+aria-label = close menu
+<ion-icon name="close-sharp" aria-hidden="true"></ion-icon>
+
+Home
+About Us
+Classes
+Blog
+Contact Us
+
+Join Now
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+The Best
+Fitness Club
+
+Work Hard To Get Better Life
+
+Duis mollis felis quis libero dictum vehicula. Duis dictum lorem mi, a faucibus nisi eleifend eu.
+
+Get Started
+
+alt = hero banner
+alt = heart rate
+alt = calories
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+alt = fitness
+
+About Us
+
+Welcome To Our Fitness Gym
+
+Nam ut hendrerit leo. Aenean vel ipsum nunc. Curabitur in tellus vitae nisi aliquet dapibus non et erat. Pellentesque porta sapien non accumsan dignissim curabitur sagittis nulla sit amet dolor feugiat.
+
+Integer placerat vitae metus posuere tincidunt. Nullam suscipit ante ac aliquet viverra vestibulum ante ipsum primis.
+
+alt = Trainer
+
+Denis Robinson
+Our Coach
+
+Explore More
+
+
+
+#---------- VIDEO ----------#
+
+Explore Fitness Life
+
+aria-label = play video
+<ion-icon name="play-sharp" aria-hidden="true"></ion-icon>
+
+Watch More
+
+
+
+#---------- CLASS ----------#
+
+Our Classes
+
+Fitness Classes For Every Goal
+
+alt = Weight Lifting
+
+Weight Lifting
+
+Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.
+
+Class Full
+
+85%
+
+alt = Cardio & Strenght
+
+Cardio & Strenght
+
+70%
+
+alt = Power Yoga
+
+Power Yoga
+
+90%
+
+alt = The Fitness Pack
+
+The Fitness Pack
+
+60%
+
+
+
+#---------- BLOG ----------#
+
+Our News
+
+Latest Blog Feed
+
+alt = Going to the gym for the first time
+
+7 July 2022
+
+Going to the gym for the first time
+
+Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.
+
+Read More
+
+alt = Parturient accumsan cacus pulvinar magna
+
+Parturient accumsan cacus pulvinar magna
+
+alt = Risus purus namien parturient accumsan cacus
+
+Risus purus namien parturient accumsan cacus
+
+
+
+#---------- FOOTER ----------#
+
+<ion-icon name="barbell-sharp" aria-hidden="true"></ion-icon>
+Fitlife
+
+Etiam suscipit fringilla ullamcorper sed malesuada urna nec odio.
+
+alt = Clock
+
+Monday - Friday
+7:00Am - 10:00Pm
+
+Saturday - Sunday
+7:00Am - 2:00Pm
+
+Our Links
+
+Home
+About Us
+Classes
+Blog
+Contact Us
+
+Contact Us
+
+<ion-icon name="location" aria-hidden="true"></ion-icon>
+
+1247/Plot No. 39, 15th Phase, Colony, Kukatpally, Hyderabad
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
+
+1800-121-3637
++91 555 234-8765
+
+<ion-icon name="mail" aria-hidden="true"></ion-icon>
+
+info@fitlife.com
+services@fitlife.com
+
+Our Newsletter
+
+aria-label = email
+placeholder = Email Address
+
+aria-label = Submit
+<ion-icon name="chevron-forward-sharp" aria-hidden="true"></ion-icon>
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+&copy; 2022 Fitlife. All Rights Reserved By codewithsadee.
+
+Privacy Policy
+Terms & Condition
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+<ion-icon name="caret-up-sharp" aria-hidden="true"></ion-icon>
